@@ -1,0 +1,13 @@
+.alternada{
+    list-style: upper-alpha;
+    font-size: 30px;
+    color:blue;
+    width: fit-content;
+}
+
+.alternada li:nth-child(odd){
+    background-color: khaki;
+}
+.alternada li:nth-child(even){
+    background-color: darkseagreen;
+}
