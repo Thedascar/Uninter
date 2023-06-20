@@ -1,0 +1,35 @@
+*{
+    font-size: 20px
+}
+
+h1{
+    background-color: aqua;
+}
+
+p{
+    display: inline;
+    color: rebeccapurple;
+}
+
+h2{
+    border-style: solid;
+    border-color: yellow;
+}
+
+div{
+    border-style: dotted;
+    height: 250px;
+    width: 250px;
+    background-color: blue;
+    padding: 20px;
+    border: solid;
+    margin: 50px;
+    float: right;
+}
+
+img{
+    position: absolute;
+    z-index: -1;
+    left: 0px;
+    right: 0px;
+}
