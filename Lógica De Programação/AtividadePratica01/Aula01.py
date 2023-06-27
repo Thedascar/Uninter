@@ -27,20 +27,28 @@ class Calculadora:
         return f'A raiz da soma foi de: {math.sqrt(self.numero1 + self.numero2)}'
     
         
-def menu(a,b):
-    calc = Calculadora(a,b)
-    print(f'thes result is {calc.soma()}')
-    print(f'thes result is {calc.subtracao()}')
-    print(f'thes result is {calc.divisao()}')
-    print(f'thes result is {calc.potencia()}')
-    print(f'thes result is {calc.resto()}')
-    print(f'thes result is {calc.raiz_soma_dois()}')
-            
+def menu(op,a,b):
+    while(True):
+        calc = Calculadora(a,b)
+        print(f'{op}')
+        print(f'thes result is {calc.soma()}')
+        print(f'thes result is {calc.subtracao()}')
+        print(f'thes result is {calc.divisao()}')
+        print(f'thes result is {calc.potencia()}')
+        print(f'thes result is {calc.resto()}')
+        print(f'thes result is {calc.raiz_soma_dois()}')
+        return
+                
         
         
-        
-a = int(input("Digite o penultimo digito do seu RU: "))
-b = int(input("Digite o último digito do seu RU: "))
-menu(a,b)
-
-        
+op = input('Escolha uma das opções: '
+           '( + )Soma\n'
+           '( - ) Subtração\n'
+           '( / )Divisãon\n'
+           '( ** )Potência\n'
+           '( % )Resto\n'
+           '( sqrt )Raiz\n'
+           'Digite a operação desejada: ')
+n1 = int(input("Digite o penultimo digito do seu RU: "))
+n2 = int(input("Digite o último digito do seu RU: "))
+menu(op,n1,n2)
