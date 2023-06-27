@@ -1,5 +1,4 @@
 import math
-
 ## classe calculadora
 class Calculadora:
     def __init__(self,numero1,numero2,op):
@@ -47,7 +46,6 @@ class Calculadora:
             return self.resto()
         elif self.op == 'sqrt':
             return self.raiz_soma_dois()
-
 # função menu do programa onde tudo será executado
 def menu():
     while(True):
@@ -55,7 +53,7 @@ def menu():
         op = input('Escolha uma das opções: \n'
            '( + )Soma\n'
            '( - ) Subtração\n'
-           '( - ) Multiplicação\n'
+           '( * ) Multiplicação\n'
            '( / )Divisãon\n'
            '( ** )Potência\n'
            '( % )Resto\n'
