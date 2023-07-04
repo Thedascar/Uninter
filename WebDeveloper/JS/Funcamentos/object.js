@@ -11,4 +11,20 @@ let prod2 = {
     nome: 'S21 fe',
     preco: 1999.00
 }
-console.log(prod2)
+
+console.log(typeof Object)
+console.log(typeof new Object)
+
+
+
+function Obj(nome){
+    this.nome = nome
+    return nome;
+}
+
+console.log(Obj('Lucas'))
+
+
+const obj2 = new Obj('LA ele')
+
+console.log(obj2)
