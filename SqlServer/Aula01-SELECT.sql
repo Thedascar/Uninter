@@ -5,7 +5,7 @@ t-sql - transact sql
 --select = seleciona
 --* tudo(todas as tabelas)
 --from = apartir de/vindo de - nome da tabela
---where = onde <- da tabela o atributo
+--where = onde <- da tabela o atributo (filtro)
 */
 
 
