@@ -1,0 +1,21 @@
+.apresentacao{
+    display:flex;
+    border: 1px solid;
+    flex-direction: column;
+}
+
+.referencias,.referencias-portifolio,.referencias-contatos,.referencias-formacao,.referencias-sobremim{
+    display:flex;
+    border: 1px solid;
+    flex-direction: row;
+    justify-content: center;
+}
+a {
+    margin: 10px;
+}
+
+.footer{
+    display:flex;
+    border: 1px solid;
+    flex-direction: column;
+}
