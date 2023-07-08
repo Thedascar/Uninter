@@ -6,6 +6,7 @@ t-sql - transact sql
 --* tudo(todas as tabelas)
 --from = apartir de/vindo de - nome da tabela
 --where = onde <- da tabela o atributo (filtro)
+--as -> alias renomear as colunas
 */
 
 
