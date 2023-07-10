@@ -4,20 +4,27 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="stylesheet" href="style.css">
+ 
+    </style>
     <title>Contatos</title>
 </head>
 <body>
-    <div class="referencias-contatos">
+    <div class="referencias">
         <a href="index.html" target="_blank">Pagina Inicial</a>
         <a href="contatos.html" target="_blank">Contato</a>
         <a href="formacaoeidiomas.html" target="_blank">Formações</a>
         <a href="portifolio.html" target="_blank">Portifólio</a>
- </div>
-    <h1>Contatos</h1>
-    <ul>
-        <li>Telefone: <a href="Phone">(42)99153-7449</a></li>
-        <li>Email: <a href="mailto:lucasramonassuncao@hotmail.com">lucasramonassuncao@hotmail.com</a></li>
-        <li>Linkdin: <a href="https://www.linkedin.com/in/lucasramoncamposassuncao/">https://www.linkedin.com/in/lucasramoncamposassuncao/</a></li> 
-    </ul>
+    </div>
+
+    <form class="form" method="get" action="envio">
+        <ul>
+            
+            <li><p>Digite seu Nome: </p><input type="text" name="nome" placeholder="Digite seu Nome aqui"></li>
+            <li><p>Digite seu Email: </p><input type="e-mail" name="email" placeholder="Digite seu e-mail"></li>
+            <li><p>Digite seu Telêfone: </p><input type="telefone" name="telefone" placeholder="Digite seu telêfone"></li>
+            <li><p>Digite sua Observação: </p><textarea id="story" name="story" rows="5" cols="33">Deixe sua observação</textarea></li>
+            <li><input type="submit" name="enviar" value="Enviar"></li>
+        </ul>
+    </form>
 </body>
 </html>
