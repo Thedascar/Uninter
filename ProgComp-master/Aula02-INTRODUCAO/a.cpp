@@ -1,9 +1,7 @@
 #include <iostream>
-
+using namespace std;
 // int main(int argc, char ** argv) chamada para receber informação do S.O.
 int main()
 {
-    using namespace std;
-    cout << "Hello World" << endl;
-    return 0;
+  cout << "\n\t\xDC";
 }

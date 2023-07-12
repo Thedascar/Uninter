@@ -14,6 +14,6 @@ int main()
 	cout << "\n\t\xBA C++ \xBA";
 	cout << "\n\t\xC8\xCD\xCD\xCD\xCD\xCD\xBC";
 	cout << "\n\n";
-	
+	system("pause");
 	return 0;
 }
