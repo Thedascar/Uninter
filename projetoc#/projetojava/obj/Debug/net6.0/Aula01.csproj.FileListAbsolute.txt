@@ -1,0 +1,14 @@
+C:\Users\lucas\OneDrive\Documents\AmbienteDev\Uninter\projetoc#\projetojava\bin\Debug\net6.0\Aula01.exe
+C:\Users\lucas\OneDrive\Documents\AmbienteDev\Uninter\projetoc#\projetojava\bin\Debug\net6.0\Aula01.deps.json
+C:\Users\lucas\OneDrive\Documents\AmbienteDev\Uninter\projetoc#\projetojava\bin\Debug\net6.0\Aula01.runtimeconfig.json
+C:\Users\lucas\OneDrive\Documents\AmbienteDev\Uninter\projetoc#\projetojava\bin\Debug\net6.0\Aula01.dll
+C:\Users\lucas\OneDrive\Documents\AmbienteDev\Uninter\projetoc#\projetojava\bin\Debug\net6.0\Aula01.pdb
+C:\Users\lucas\OneDrive\Documents\AmbienteDev\Uninter\projetoc#\projetojava\obj\Debug\net6.0\Aula01.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lucas\OneDrive\Documents\AmbienteDev\Uninter\projetoc#\projetojava\obj\Debug\net6.0\Aula01.AssemblyInfoInputs.cache
+C:\Users\lucas\OneDrive\Documents\AmbienteDev\Uninter\projetoc#\projetojava\obj\Debug\net6.0\Aula01.AssemblyInfo.cs
+C:\Users\lucas\OneDrive\Documents\AmbienteDev\Uninter\projetoc#\projetojava\obj\Debug\net6.0\Aula01.csproj.CoreCompileInputs.cache
+C:\Users\lucas\OneDrive\Documents\AmbienteDev\Uninter\projetoc#\projetojava\obj\Debug\net6.0\Aula01.dll
+C:\Users\lucas\OneDrive\Documents\AmbienteDev\Uninter\projetoc#\projetojava\obj\Debug\net6.0\refint\Aula01.dll
+C:\Users\lucas\OneDrive\Documents\AmbienteDev\Uninter\projetoc#\projetojava\obj\Debug\net6.0\Aula01.pdb
+C:\Users\lucas\OneDrive\Documents\AmbienteDev\Uninter\projetoc#\projetojava\obj\Debug\net6.0\Aula01.genruntimeconfig.cache
+C:\Users\lucas\OneDrive\Documents\AmbienteDev\Uninter\projetoc#\projetojava\obj\Debug\net6.0\ref\Aula01.dll
